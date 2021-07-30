@@ -25,6 +25,10 @@
   background-image: url('../img/group9.png');
 }
 
+#social-group_9_international div {
+  background-image: url('../img/group9-international.png');
+}
+
 #social-haystaq div {
   background-image: url('../img/haystaq.png');
 }
