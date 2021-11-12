@@ -25,7 +25,7 @@
   background-image: url('../img/group9.png');
 }
 
-#social-group_9_international div {
+#social-group9-international div {
   background-image: url('../img/group9-international.png');
 }
 
@@ -35,6 +35,10 @@
 
 #social-bright-r div {
   background-image: url('../img/bright-r.png');
+}
+
+#social-alfaone-consulting div {
+  background-image: url('../img/alfaone-consulting.png')
 }
 
 .kc-social-item {
